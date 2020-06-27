@@ -23,3 +23,8 @@ https://motorola-global-chn.custhelp.com/app/answers/detail/a_id/77668/~/me632�
 * 電視的電纜數據機：
 
 https://zh.wikipedia.org/wiki/纜線數據機
+
+
+# Microwave Modem
+
+微波數據機的微波強度相對於微波爐的微波泄漏來說是非常安全的，並且危害也僅僅稍微多於行動電話，相對分散的微波束需要一個大型整流天線去傳輸大量的能量。
