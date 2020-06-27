@@ -36,6 +36,9 @@ https://www.youtube.com/watch?v=Spnhw1NL7O8 (802.11 ax 或是 wifi 6 以及 SU-M
 https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7616001&osm=Ad07&utm_source=googleshop&utm_medium=googleshop_USC&utm_content=bn&gclid=Cj0KCQjwudb3BRC9ARIsAEa-vUsdAA5jynltG-lBb4515MBf9-fC5961UKwrMFU0cZnJzK35pTUryxEaAoxHEALw_wcB
 
 
+https://shopping.friday.tw/ec2/product?pid=6999554&cid=33509&sid=0&mid=1&WT.md_id=gps_ssc&gclid=Cj0KCQjwudb3BRC9ARIsAEa-vUuqezllbqc0CJ21d95YkAgRXkH7pf8E94iI2B79cy0dpiQNz_IhkrEaAll0EALw_wcB&gclsrc=aw.ds
+
+
 # Wi-Fi
 
 無線數據機
