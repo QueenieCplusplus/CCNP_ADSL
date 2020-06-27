@@ -4,16 +4,16 @@
 傳統撥接上網是指以往舊年代的數據機（數位轉類比進行傳輸後在解調頻成為數位電子訊號），其他常見的數據機還包括用於寬頻資料接入的有線電纜數據機（電視）Cable Modem、ADSL Modem數據機、數位電話（無線數據機）、微波數據機速率可以達上百萬位元每秒；其中光纖的光數據機可以達到幾 10Gbps 以上，是現在電信傳輸的骨幹。
 
 
+# Router & Modem 
+
+https://support.google.com/wifi/answer/6274112?hl=zh-HK
+
+
 ![modem](https://lh3.googleusercontent.com/UV-goaDOMUry0m8HdBmuYjc4LTd0AOPXNYR51uulIqcocOlsl9XGEYRx2idlQrqA2qTy=w700)
 
 
                                 (圖為數據機)
 
-
-
-![VTU-R](https://www.so-net.net.tw/rwd/images/product/pic_fttb.jpg)
-
-                              （圖為光纖數據機）
 
 
 # Wi-Fi
@@ -44,6 +44,10 @@ https://www.so-net.net.tw/product/fttb (光纖數據機)
 
 https://www.mobile01.com/topicdetail.php?f=507&t=809670 (接線)
 
+
+![VTU-R](https://www.so-net.net.tw/rwd/images/product/pic_fttb.jpg)
+
+                              （圖為光纖數據機）
 
 # GSM
 
