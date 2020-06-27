@@ -74,7 +74,7 @@ https://www.mobile01.com/topicdetail.php?f=507&t=809670 (接線)
 
 ![VTU-R](https://www.so-net.net.tw/rwd/images/product/pic_fttb.jpg)
 
-                              （圖為光纖數據機）電話線孔後方為 ATM 連接至 ISP 的線網中心的路由器內 （機房）
+      （圖為光纖數據機）電話線孔後方為 ATM 連接至 ISP 的線網中心的路由器內 （機房）
 
 # GSM
 
