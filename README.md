@@ -30,6 +30,8 @@ https://www.so-net.net.tw/product/fttb (光纖數據機)
 
 ![fttb](https://www.so-net.net.tw/rwd/images/product/hardware_fttbmodem.jpg)
 
+https://www.mobile01.com/topicdetail.php?f=507&t=809670 (接線)
+
 
 # TV
 
