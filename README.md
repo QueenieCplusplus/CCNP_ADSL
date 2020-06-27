@@ -29,6 +29,8 @@ https://support.google.com/wifi/answer/6274112?hl=zh-HK
 
 https://kknews.cc/zh-tw/tech/6poexq3.html
 
+https://www.youtube.com/watch?v=Spnhw1NL7O8 (開箱文)
+
 
 # Wi-Fi
 
