@@ -15,6 +15,10 @@ https://support.google.com/wifi/answer/6274112?hl=zh-HK
                                 (圖為數據機)
 
 
+# AP, Access Point (Router)
+
+無線AP，即Access Point，也就是無線接入點。 簡單來說就是無線網絡中的無線交換機，它是移動終端用戶進入有線網絡的接入點，主要用於家庭寬頻、企業內部網絡部署等，無線覆蓋距離為幾十米至上百米。 用於用戶上網、帶有無線覆蓋功能的路由器。
+
 
 # Wi-Fi
 
