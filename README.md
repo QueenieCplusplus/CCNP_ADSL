@@ -12,6 +12,8 @@
 
 # Wi-Fi
 
+![wifi](https://d2lfcsub12kx0l.cloudfront.net/tw/article/img/202002/2020020313210385535_ExtraLargeSize-640x640.jpg)
+
 * 數位電話的無線基地台就是無線數據機：
 
 https://motorola-global-chn.custhelp.com/app/answers/detail/a_id/77668/~/me632我的手機可以當數據機使用嗎？
