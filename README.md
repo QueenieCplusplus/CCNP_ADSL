@@ -32,6 +32,8 @@ https://kknews.cc/zh-tw/tech/6poexq3.html
 
 # Wi-Fi
 
+無線數據機
+
 ![wifi](https://d2lfcsub12kx0l.cloudfront.net/tw/article/img/202002/2020020313210385535_ExtraLargeSize-640x640.jpg)
 
 * 數位電話的無線基地台就是無線數據機：
@@ -52,6 +54,8 @@ https://www.sogi.com.tw/articles/wifi_6/6254363 (OFDM & MU-MIMO)
 
 # VTU-R, 家用網路數據機
 
+光纖數據機
+
 https://www.so-net.net.tw/product/fttb (光纖數據機)
 
 ![fttb](https://www.so-net.net.tw/rwd/images/product/hardware_fttbmodem.jpg)
@@ -65,12 +69,16 @@ https://www.mobile01.com/topicdetail.php?f=507&t=809670 (接線)
 
 # GSM
 
+微波數據機
+
 全球行動通訊系統和人造衛星天線所採用的數據機技術
 
 微波數據機的微波強度相對於微波爐的微波泄漏來說是非常安全的，並且危害也僅僅稍微多於行動電話，相對分散的微波束需要一個大型整流天線去傳輸大量的能量。
 
 
 # TV
+
+電纜數據機
 
 * 電視的電纜數據機：
 
