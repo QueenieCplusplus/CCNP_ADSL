@@ -18,6 +18,10 @@ https://motorola-global-chn.custhelp.com/app/answers/detail/a_id/77668/~/me632�
 
 智慧型數據機內建媒介存取控制器來避免因衝突和重發引起的未正確接受資料產生亂數據。智慧型數據機因此較之普通透明數據機需要額外的頻寬，特別的還要更多的無線頻率頻寬。IEEE 802.11標準包含了一個近程數據機標準，大規模應用於全球的網路。無線數據機被用於 Wi-Fi 或者WiMax 標準
 
+# FTTB
+
+https://www.so-net.net.tw/product/fttb (光纖數據機)
+
 # TV
 
 * 電視的電纜數據機：
