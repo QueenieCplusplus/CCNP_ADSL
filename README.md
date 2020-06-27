@@ -31,6 +31,10 @@ https://kknews.cc/zh-tw/tech/6poexq3.html
 
 https://www.youtube.com/watch?v=Spnhw1NL7O8 (802.11 ax 或是 wifi 6 以及 SU-MIMO 開箱文)
 
+* TP-Link (路由器品牌)
+
+https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7616001&osm=Ad07&utm_source=googleshop&utm_medium=googleshop_USC&utm_content=bn&gclid=Cj0KCQjwudb3BRC9ARIsAEa-vUsdAA5jynltG-lBb4515MBf9-fC5961UKwrMFU0cZnJzK35pTUryxEaAoxHEALw_wcB
+
 
 # Wi-Fi
 
