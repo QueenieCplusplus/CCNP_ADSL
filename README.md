@@ -33,15 +33,15 @@ https://www.so-net.net.tw/product/fttb (光纖數據機)
 https://www.mobile01.com/topicdetail.php?f=507&t=809670 (接線)
 
 
-# TV
-
-* 電視的電纜數據機：
-
-https://zh.wikipedia.org/wiki/纜線數據機
-
-
 # GSM
 
 全球行動通訊系統和人造衛星天線所採用的數據機技術
 
 微波數據機的微波強度相對於微波爐的微波泄漏來說是非常安全的，並且危害也僅僅稍微多於行動電話，相對分散的微波束需要一個大型整流天線去傳輸大量的能量。
+
+
+# TV
+
+* 電視的電纜數據機：
+
+https://zh.wikipedia.org/wiki/纜線數據機
