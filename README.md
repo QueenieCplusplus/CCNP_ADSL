@@ -29,7 +29,7 @@ https://support.google.com/wifi/answer/6274112?hl=zh-HK
 
 https://kknews.cc/zh-tw/tech/6poexq3.html
 
-https://www.youtube.com/watch?v=Spnhw1NL7O8 (802.11 ax 或是 wifi 6 開箱文)
+https://www.youtube.com/watch?v=Spnhw1NL7O8 (802.11 ax 或是 wifi 6 以及 SU-MIMO 開箱文)
 
 
 # Wi-Fi
