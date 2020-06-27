@@ -24,6 +24,8 @@ https://support.google.com/wifi/answer/6274112?hl=zh-HK
 
 用於用戶上網、帶有無線覆蓋功能的路由器。常見的無線路由器一般都有一個 RJ45 口為 WAN 口，也就是路由器到外部網絡的接口，其餘2-4個口為 LAN 口，用來連接普通區域網，內部有一個『網絡交換機』晶片，專門處理 LAN 接口之間的信息交換。
 
+https://kknews.cc/zh-tw/tech/6poexq3.html
+
 
 # Wi-Fi
 
