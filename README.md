@@ -22,6 +22,8 @@ https://motorola-global-chn.custhelp.com/app/answers/detail/a_id/77668/~/me632�
 
 https://www.so-net.net.tw/product/fttb (光纖數據機)
 
+![fttb](https://www.so-net.net.tw/rwd/images/product/hardware_fttbmodem.jpg)
+
 # TV
 
 * 電視的電纜數據機：
