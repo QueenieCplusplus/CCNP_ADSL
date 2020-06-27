@@ -3,6 +3,10 @@
 
 傳統撥接上網是指以往舊年代的數據機（數位轉類比進行傳輸後在解調頻成為數位電子訊號），其他常見的數據機還包括用於寬頻資料接入的有線電纜數據機（電視）Cable Modem、ADSL Modem數據機、數位電話（無線數據機）、微波數據機速率可以達上百萬位元每秒；其中光纖的光數據機可以達到幾 10Gbps 以上，是現在電信傳輸的骨幹。
 
+（圖為光纖數據機）
+
+![VTU-R](https://www.so-net.net.tw/rwd/images/product/pic_fttb.jpg)
+
 
 # Wi-Fi
 
@@ -18,11 +22,12 @@ https://motorola-global-chn.custhelp.com/app/answers/detail/a_id/77668/~/me632�
 
 智慧型數據機內建媒介存取控制器來避免因衝突和重發引起的未正確接受資料產生亂數據。智慧型數據機因此較之普通透明數據機需要額外的頻寬，特別的還要更多的無線頻率頻寬。IEEE 802.11標準包含了一個近程數據機標準，大規模應用於全球的網路。無線數據機被用於 Wi-Fi 或者WiMax 標準
 
-# VTU-R
+# VTU-R, 家用網路數據機
 
 https://www.so-net.net.tw/product/fttb (光纖數據機)
 
 ![fttb](https://www.so-net.net.tw/rwd/images/product/hardware_fttbmodem.jpg)
+
 
 # TV
 
