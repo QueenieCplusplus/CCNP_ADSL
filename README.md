@@ -5,3 +5,6 @@
 
 數位電話的無線基地台就是無線數據機：
 https://motorola-global-chn.custhelp.com/app/answers/detail/a_id/77668/~/me632我的手機可以當數據機使用嗎？
+
+電視的電纜數據機：
+https://zh.wikipedia.org/wiki/纜線數據機
