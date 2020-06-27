@@ -28,7 +28,7 @@ https://motorola-global-chn.custhelp.com/app/answers/detail/a_id/77668/~/me632�
 
 * Wi-Fi 的規格：
 
-https://www.sogi.com.tw/articles/wifi_6/6254363
+https://www.sogi.com.tw/articles/wifi_6/6254363 (OFDM & MU-MIMO)
 
 # VTU-R, 家用網路數據機
 
